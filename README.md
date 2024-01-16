@@ -1,4 +1,4 @@
-#*Accenture Virtual Experience Program by Forage*
+# **Accenture Virtual Experience Program by Forage**
 
 Program Overview:
 
