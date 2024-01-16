@@ -1,6 +1,6 @@
 # **Accenture Virtual Experience Program by Forage**
 
-Program Overview:
+## **Program Overview:**
 
 Program Outcomes:
 •	Completed a simulation focused on advising a hypothetical social media client as a Data Analyst at Accenture
