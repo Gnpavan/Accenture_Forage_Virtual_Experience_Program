@@ -9,6 +9,8 @@ Social Buzz has over 100.000 posts per day, that can be assumed to have 36.500.0
 ## **Project Findings:**
 ![image](https://github.com/Gnpavan/Accenture_Forage_Virtual_Experience_Program/assets/89655397/0762c20a-2ad6-49c4-98a2-b6c282e83a35)
 
+**Link to Dashboard** [Dashboard](https://github.com/Gnpavan/Accenture_Forage_Virtual_Experience_Program/blob/master/Task_4/Social%20Media%20Buzz%20Analytics%20DB.pbix)
+
 Above is the dashboard I have built with the dataset received fromthe social media buzz team. They wanted to understand the better performing categories, top posts by cntent, basically their focus or aim was to understand how well they could engage the audience with their posts.
 
 - Content wise they are preety much good as the posts have no big margin.
